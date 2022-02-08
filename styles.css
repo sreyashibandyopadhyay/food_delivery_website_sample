@@ -1,0 +1,35 @@
+.second
+{
+  background-color: #ACB992 ;
+  padding: 0;
+  margin: 0; 
+
+}
+.third
+{
+    background-color: #990000
+}
+.fourth
+{
+    background-color: #a1b57d
+}
+h2
+{
+
+  position: relative;
+  left: 450px;
+  bottom: 500px;
+  font-family: 'Supermercado One', cursive;
+  font-size: 150px;
+  color: #ACB992;
+}
+.tagline
+{
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  color: #362706;
+  left: 400px;
+  bottom: 450px;
+  font-size: 45px;
+  text-align: left;
+}
